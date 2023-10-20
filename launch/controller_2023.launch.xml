@@ -5,4 +5,6 @@
 	<node pkg="joy" exec="joy_node"/>
 	<!-- controller_2023 -->
 	<node pkg="controller_2023" exec="controller_2023"/>
+	<!-- GUI -->
+	<node pkg="graphics_drobo_controller" exec="graphics_drobo_controller"/>
 </launch>
